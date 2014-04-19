@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+}
+
+#H3 {
+	width: 100%;
+	position: absolute;
+	top: 300px;
+}
+
+#num {
+	position: fixed;
+	left: 100px;
+	font-family: helvetica;
+	font-size: 350px;
+	font-weight: bold;
+	color: #e6e6e6;
+}
+
+#name {
+	font-family: helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: #999999;
+	position: fixed;
+	top: 20px;
+	right: 200px;
+}
+
+#link {
+	font-family: helvetica;
+	font-size: 300px;
+	font-weight: bold;
+	color: #b3b3b3;
+	position: fixed;
+	left: 550px;
+	top: 10px;
+}
