@@ -10,7 +10,7 @@
 		"inputAbbreviatedPath": "\/current.jpg",
 		"outputAbbreviatedPath": "\/current.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,

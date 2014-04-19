@@ -2,9 +2,18 @@ body {
 	margin: 0px;
 }
 
+a {
+	text-decoration: none;
+	color: #00d1fb;
+}
+
+a:hover {
+	color: #62defd;
+}
+
 #H3 {
 	width: 100%;
-	position: absolute;
+	position: relative;
 	top: 300px;
 }
 
@@ -35,4 +44,28 @@ body {
 	position: fixed;
 	left: 550px;
 	top: 10px;
+}
+
+#rel {
+	position: relative;
+	top: 350px;
+	padding: 50px;
+	width: 640px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#other {
+	text-align: center;
+	font-family: helvetica;
+	padding-bottom: 20px;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#sites {
+	text-align: center;
+	font-family: helvetica;
+	font-size: 40px;
 }
