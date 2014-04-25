@@ -10,17 +10,17 @@
 		"inputAbbreviatedPath": "\/23.jpg",
 		"outputAbbreviatedPath": "\/23.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/current.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.96768e+06,
+		"initialSize": 1.90099e+06,
 		"inputAbbreviatedPath": "\/current.jpg",
 		"outputAbbreviatedPath": "\/current.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
