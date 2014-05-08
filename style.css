@@ -11,14 +11,9 @@ a:hover {
 	color: #62defd;
 }
 
-#H3 {
-	width: 100%;
-	position: relative;
-	top: 300px;
-}
-
 #num {
-	position: fixed;
+	/*position used to be absolute*/
+	position: relative;
 	left: 100px;
 	font-family: helvetica;
 	font-size: 350px;
@@ -31,24 +26,16 @@ a:hover {
 	font-size: 100px;
 	font-weight: bold;
 	color: #999999;
-	position: fixed;
+	/*position used to be absolute*/
+	position: absolute;
 	top: 20px;
 	right: 10%;
 }
 
-#link {
-	font-family: helvetica;
-	font-size: 300px;
-	font-weight: bold;
-	color: #b3b3b3;
-	position: fixed;
-	left: 550px;
-	top: 10px;
-}
-
 #rel {
 	position: relative;
-	top: 350px;
+	/*top used to be 350px*/
+	top: 100px;
 	padding: 50px;
 	width: 640px;
 	display: block;
@@ -68,4 +55,15 @@ a:hover {
 	text-align: center;
 	font-family: helvetica;
 	font-size: 40px;
+}
+
+#textinfo {
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	text-align: center;
+	color: #333333
 }
